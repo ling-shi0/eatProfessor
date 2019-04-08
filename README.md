@@ -1,3 +1,11 @@
+一个关于营养健康的hybrid APP的前端部分
+基于VUE框架
+现已完成一部分，持续更新~~~
+
+
+
+
+
 # eatprofessor
 
 > A Vue.js project
