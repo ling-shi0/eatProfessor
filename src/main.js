@@ -4,8 +4,11 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import VueBus from 'vue-bus'
+import echarts from 'echarts'
+
 Vue.config.productionTip = false
 Vue.use(VueBus)
+Vue.use(echarts)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
